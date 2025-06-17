@@ -32,9 +32,9 @@ This project aims to help you generate a summary of a minecraft server edition. 
 
 ~show_stats – Allows enabling or disabling specific statistics on the page.*
 
-**6** Clearing Application Files Deletes all files from the application folder (useful if you want to generate statistics for another server).
+**6.** Clearing Application Files Deletes all files from the application folder (useful if you want to generate statistics for another server).
 
-**7** Exit the Application Closes the program.
+**7.** Exit the Application Closes the program.
 
 # How to use
 **1.** Clone the repository using the following command:
