@@ -39,8 +39,16 @@ This project aims to help you generate a summary of a minecraft server edition. 
 **4.** Create a new folder, move all downloaded files into it, and copy the folder path.
 
 **5.** Open the command prompt, navigate to the downloaded repository folder using:
-
 `cd folder/path`
+
 **6.** Then run the application with:
 `python main.py`
+
+If you have any questions or suggestions on what can be changed or fixed, message me on Telegram 
+
+# Disclaimer
+*This program is an independent project and is not affiliated with, endorsed by, or officially supported by Mojang Studios or Microsoft*
+
+# License: GNU GPL
+This project is licensed under the GNU General Public License (GPL), ensuring that users have the freedom to run, study, modify, and distribute the software. The GPL enforces copyleft principles, meaning that any derivative work must also be open-source under the same license.
 
