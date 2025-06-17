@@ -6,7 +6,7 @@ This project aims to help you generate a summary of a minecraft server edition. 
 
 # Features
 *(The appearance of the application will be shown in a picture later.)*
-![App viev](media/screen1.png)
+![App viev](media/screen1.PNG)
 
 **1.** Console Statistics Display You can choose a category, and then all relevant statistics (e.g., all mined blocks) will be displayed. Before using this feature, you must first import player statistics using the second function.
 
@@ -17,12 +17,12 @@ This project aims to help you generate a summary of a minecraft server edition. 
 **4.** Copying the File to Desktop Copies the generated HTML file to the desktop and provides its path.
 
 **5.** Report Configuration Options
-*Server-name (any text) – The name of the server for which statistics are generated.
-Report-name (filename.html) – The name of the generated HTML file.
-top_players_count (number) – Specifies the number of players to be included in the top list. This is particularly useful for large servers to avoid excessively long pages.
-dark_mode (True/False) – Enables dark mode for the generated page.
-language (pl/en) – Sets the language of the generated page to either Polish or English.
-show_stats – Allows enabling or disabling specific statistics on the page.*
+*~Server-name (any text) – The name of the server for which statistics are generated.
+~Report-name (filename.html) – The name of the generated HTML file.
+~top_players_count (number) – Specifies the number of players to be included in the top list. This is particularly useful for large servers to avoid excessively long pages.
+~dark_mode (True/False) – Enables dark mode for the generated page.
+~language (pl/en) – Sets the language of the generated page to either Polish or English.
+~show_stats – Allows enabling or disabling specific statistics on the page.*
 **6** Clearing Application Files Deletes all files from the application folder (useful if you want to generate statistics for another server).
 **7** Exit the Application Closes the program.
 
