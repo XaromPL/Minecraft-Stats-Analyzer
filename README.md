@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/xarompl/minecraft-stats-analyzer?style=for-the-badge)
+[![License: AGPL](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://github.com/XaromPL/Minecraft-Stats-Analyzer/blob/main/LICENSE)
 [![Static Badge](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto)](https://t.me/mrxarom)
 
 # Minecraft-Stats-Analyzer
