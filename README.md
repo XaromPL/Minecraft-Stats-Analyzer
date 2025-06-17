@@ -14,7 +14,7 @@ This project aims to help you generate a summary of a minecraft server edition. 
 
 **3.** Generating an HTML Report Creates an HTML page with all settings configured in option 5.
 *(The appearance of the page in Polish language.)*
-![App viev](media/screen2.PNG)
+![App viev2](media/screen2.PNG)
 
 **4.** Copying the File to Desktop Copies the generated HTML file to the desktop and provides its path.
 
