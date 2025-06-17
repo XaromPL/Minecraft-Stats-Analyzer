@@ -6,8 +6,9 @@ This project aims to help you generate a summary of a minecraft server edition. 
 
 # Features
 *(The appearance of the application will be shown in a picture later.)*
+![App viev](media/screen1.png)
 
-** 1.** Console Statistics Display You can choose a category, and then all relevant statistics (e.g., all mined blocks) will be displayed. Before using this feature, you must first import player statistics using the second function.
+**1.** Console Statistics Display You can choose a category, and then all relevant statistics (e.g., all mined blocks) will be displayed. Before using this feature, you must first import player statistics using the second function.
 
 **2.** Importing Player Statistics This function allows you to import all statistics and user nickname information from a folder you create—just enter its path. (A detailed guide can be found in the How to Use section.)
 
