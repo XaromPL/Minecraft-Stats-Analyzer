@@ -13,6 +13,7 @@ This project aims to help you generate a summary of a minecraft server edition. 
 **2.** Importing Player Statistics This function allows you to import all statistics and user nickname information from a folder you create—just enter its path. (A detailed guide can be found in the How to Use section.)
 
 **3.** Generating an HTML Report Creates an HTML page with all settings configured in option 5.
+
 *(The appearance of the page in Polish language.)*
 ![App viev2](media/Screen2.PNG)
 
