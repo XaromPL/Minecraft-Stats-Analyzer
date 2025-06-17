@@ -1,0 +1,19 @@
+{
+    "page_title": "Rankingi graczy",
+    "stats_categories": {
+        "mined": "Wykopane bloki",
+        "broken": "Zniszczone przedmioty",
+        "crafted": "Stworzone przedmioty",
+        "killed": "Zabite moby",
+        "killed_by": "Śmierci od mobów",
+        "dropped": "Wyrzucone przedmioty",
+        "picked_up": "Podniesione przedmioty",
+        "used": "Użyte przedmioty",
+        "custom": "Osiągnięcia"
+    },
+    "table_headers": {
+        "place": "Miejsce",
+        "player": "Gracz",
+        "score": "Wynik"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "page_title": "Player Rankings",
+    "stats_categories": {
+        "mined": "Mined Blocks",
+        "broken": "Broken Items",
+        "crafted": "Crafted Items",
+        "killed": "Killed Mobs",
+        "killed_by": "Deaths by Mobs",
+        "dropped": "Dropped Items",
+        "picked_up": "Picked Up Items",
+        "used": "Used Items",
+        "custom": "Achievements"
+    },
+    "table_headers": {
+        "place": "Place",
+        "player": "Player",
+        "score": "Score"
+    }
+}

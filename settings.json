@@ -1,0 +1,18 @@
+{
+    "server_name": "Gabriel dudek",
+    "report_name": "stats.html",
+    "top_players_count": 10,
+    "dark_mode": true,
+    "language": "en",
+    "show_stats": {
+        "mined": true,
+        "broken": true,
+        "crafted": true,
+        "killed": true,
+        "killed_by": true,
+        "dropped": true,
+        "picked_up": true,
+        "used": true,
+        "custom": true
+    }
+}
