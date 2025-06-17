@@ -1,8 +1,8 @@
 {
-    "server_name": "Gabriel dudek",
+    "server_name": "Your server name",
     "report_name": "stats.html",
     "top_players_count": 10,
-    "dark_mode": true,
+    "dark_mode": false,
     "language": "en",
     "show_stats": {
         "mined": true,
