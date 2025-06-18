@@ -20,7 +20,7 @@ This project aims to help you generate a summary of a minecraft server edition. 
 
 **4.** Copying the File to Desktop Copies the generated HTML file to the desktop and provides its path.
 
-**5.** Report Configuration Options
+**5.** Configuration Options
 
 *~Server-name (any text) – The name of the server for which statistics are generated.
 
