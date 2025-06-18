@@ -21,6 +21,7 @@ This project aims to help you generate a summary of a minecraft server edition. 
 **4.** Copying the File to Desktop Copies the generated HTML file to the desktop and provides its path.
 
 **5.** Report Configuration Options
+
 *~Server-name (any text) – The name of the server for which statistics are generated.
 
 ~Report-name (filename.html) – The name of the generated HTML file.
@@ -40,8 +41,10 @@ This project aims to help you generate a summary of a minecraft server edition. 
 # How to use
 **1.** Clone the repository using the following command:
 `git clone https://github.com/XaromPL/Minecraft-Stats-Analyzer.git`
+
 **2.** Install Python if you haven’t already, then download all required libraries using:
 `pip install -r requirements.txt`
+
 **3.** Access your Minecraft server folder using FTP or another method, then download the following files:
 
 *All files from the world/stats folder*
